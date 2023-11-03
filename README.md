@@ -40,7 +40,7 @@ Cor do badge: 3D7BF7
 
 |       Onboarding Screen        |        Login Screen One        |        Login Screen Two        |
 | :----------------------------: | :----------------------------: | :----------------------------: |
-| ![Onboarding](/onboarding.png) | ![Login One  ](/login-one.png) | ![Login Two  ](/login-one.png) |
+| ![Onboarding](/onboarding.png) | ![Login One  ](/login-one.png) | ![Login Two  ](/login-two.png) |
 
 </details>
 
